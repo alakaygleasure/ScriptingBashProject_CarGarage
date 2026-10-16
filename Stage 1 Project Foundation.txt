@@ -1,0 +1,80 @@
+Project Title and description: 
+This is project is based on a high end luxury Motor Dealerships records and of recording and logging imports and export cars they purchase and sell they get in such as what cars, year, fuel type, milage, how many pervious owners, km/h, brand and a section at the end of the records of details of what garage and salesperson has the car been bought from or past through. 
+
+Intended User and Problem the application will solve: 
+User will be the employees of the Business, Problem is trying to keep history of the which garages the cars have previously been with, sold out from and how many previous owners so the dealership can have a legal history of this, so this can resolve the issue of if the car is still considered newer and can be sold directly to a buyer or is the car not worth the garages resources time and money keeping and trying to sell. 
+
+Types of records Manged by the application: 
+CarReg	Brand	Year Made	How many previous owners	Milage	How many garages has it been pass down through	How long has it been with us in our garage	Info of export history	Fuel Type	Desirability on the Market	Price 
+
+Unique Record Identifier: CarReg.
+
+Proposed data fields and delimiter: In Folder Excel file.
+Delimiter: Comma. 
+Data Fields:
+CarReg, CarBrand, Production Year, NoOfCurrentOwners, PreviousGarages, CurrentMilage,TimeInLot,FuelType,MarketRating,PriceEstimate
+
+Initial Validation Rules:
+CarReg is a primary key a unique identifier must not be left empty.
+CarBrand cant be empty.
+Production_Year Must be no older then 2027.  
+NoOfOwners Must not be empty greater or equal to 1.
+CurrentMilage 
+PreviousGarageHistory Must contain the previous garage details or N/A if there is no previous history.
+TimeInLot Cant be empty
+FuelType can only be three options Petrol, Diesel, Electric.
+MarketRating Cant be empty.
+PriceEstimate but not be empty.
+
+Additional rules:
+When adding a new car, the system must check that the CarID does not already exist.
+When updating a car, the system must check that the CarID exists.
+When exporting a car, its record should be transferred to an export history file rather than permanently deleted.
+Cars that have been in the garage for more than six months may receive a discount of 5% off.
+
+Proposed Menu Options:	
+1. Display All Cars
+2. Search for a Car
+3. Add a New Car
+4. Update Car Details
+5. Export / Remove a Car from Stock
+6. Generate Reports
+7. Backup Records
+8. Exit
+
+Please select an option:
+What each option will do
+Option	Purpose
+Display All Cars	Displays all car records currently stored in the system.
+Search for a Car	Allows an employee to search using the CarID or registration number.
+Add a New Car	Adds a new car and its details to the text file.
+Update Car Details	Allows employees to change information about an existing car.
+Export / Remove a Car from Stock	Moves a sold or exported car into a separate history file so its record is preserved.
+Generate Reports	Displays useful information about stock, older vehicles and cars requiring attention.
+Backup Records	Creates a backup copy of the car records.
+Exit	Closes the application.
+
+Useful reports and exception lists.
+
+• Approximately five draft sample records.
+CarReg	CarBrand	Production_Year	NoOfOwners	CurrentMilage	PreviousGarageHistory	TimeInLot	FuelType	MarketRating	PriceEstimate
+6MK273	Lamborgini Huracan 	2025	1	19,094	Only been through 2 prevous garages. Car imported from London Garage Wagwan Motors, Car Imported from Yeniköy Motors in Turkey spend 3 weeks on show before being exported to London	6 Months	Electric 	High on Market Value 	103,000
+683YG7	Ferrari Spider P98	2021	2	64,304	Been through 2 previous garages spend 2 years in Italian garage Antonello Luxary Motors, 1 year in Abduls luxary whips sheffeild	9 Months	Petrol	Low espically since it has spend years waiting in two different garages 	69,000
+LS6D33	Aston Martin Racing Chrome F	2026	1	17,383	N/A	1 Month	 Diesel	Very High on Market Value desirability	167,000
+45RB17	Toyota GR Supra	2024	1	45,000	Originally imported from Tokyo Performance Motors in Japan. Spent 8 months in Osaka Racing Garage specialising in modified JDM vehicles.	5 Months	Electric 	High on Market Value desirability since it’s a Japan Car	49,000
+J817DB	Audi F1M	2023	2	23,000	Originally purchased from Berlin Supercar Centre in Germany. Spent 18 months in London Executive Motors before being imported to Ireland and sold to our dealership.	1 Year	Petrol	Medium could be lowering Price may be effected due to year and previous owners, Discount may be needed	78,000
+
+
+
+Additional Notes:
+If car
+Discount cars length of time in garage if over 6 months add discount of 5%.
+
+Cant delete a car entry have to import to one another file of exports
+
+
+
+
+
+
+
