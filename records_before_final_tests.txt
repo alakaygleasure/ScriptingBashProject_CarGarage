@@ -1,0 +1,19 @@
+6MK273,Lamborghini Huracan,2025,1,19094,Only been through 2 previous garages. Car imported from London Garage Wagwan Motors. Car imported from Yeniköy Motors in Turkey and spent 3 weeks on show before being exported to London,6 Months,Electric,High,103000
+683YG7,Ferrari Spider P98,2021,2,64304,Been through 2 previous garages. Spent 2 years in Italian garage Antonello Luxury Motors. Spent 1 year in Abduls Luxury Whips Sheffield,9 Months,Petrol,High,69000
+LS6D33,Aston Martin Racing Chrome F,2026,1,17383,N/A,1 Month,Diesel,Very High,167000
+J817DB,Audi F1M,2023,2,23000,Originally purchased from Berlin Supercar Centre in Germany. Spent 18 months in London Executive Motors before being imported to Ireland and sold to our dealership,1 Year,Petrol,Medium,78000
+36TG6M,Ford GR5,2026,N/A,N/A,Recently acquired by the dealership and has no recorded previous garage history,3 Months,Electric,High,89399
+56GP33,Aston Martin Alonso06,2025,1,9430,Previously kept at one luxury garage before being acquired by the dealership,5 Weeks,Petrol,High,101000
+TH67M9,Hyundai,2023,2,21938,Previously owned by two owners and stored at a local Hyundai dealership before being acquired by the current garage,3 Months,Diesel,Low,77000
+RED456,Ferrari Monoca S1,2022,1,45782,Previously stored at a Ferrari specialist garage before being purchased by the current dealership,7 Months,Petrol,Low,89000
+LN17ML,Mclaren papaya monster,2023,1,64363,Previously held at a McLaren specialist garage before being transferred to the current dealership,1 Year 6 Months,Petrol,Medium,102000
+LH44ME,Mercedes Amg GT4,2026,N/A,N/A,Recently acquired by the dealership with no recorded previous garage history,4 Months,Electric,High,128000
+C93NUI,Mclaren Aussie OP88,2020,3,78270,Previously held at three garages including a performance car specialist before being acquired by the current dealership,1 Year 4 Months,Petrol,Medium,50000
+F1SDCH,MercedesMaybach 23,2023,2,29592,Previously stored at two luxury garages before being transferred to the current dealership,7 Months,Diesel,Medium,102000
+89IRKU,Honda CashappRB,2024,1,54823,Previously kept at a Honda specialist garage before being purchased by the current dealership,8 Months,Petrol,High,79823
+UT72MW,Toyota GT808,2020,2,67037,Previously stored at two garages including a Toyota performance workshop before being acquired by the dealership,10 Months,Diesel,High,67000
+7YEBY2,Lamborghini,2021,3,88992,Previously held at three garages including a luxury vehicle specialist before being transferred to the current dealership,4 Months,Electric,Medium,105000
+45RE72,Mclaren P1,2019,3,102222,Been through 3 different UK garages Sheffield London and Berkley, 1 Year 3 Months, Petrol,Low, 48000
+NLWI96,Bugatti chiron V8 Dubai,2025,1,7120,Imported from Dubai after being displayed at a luxury car showroom and transferred to the current dealership,1 Month,Electric,High,157000
+56CL02,Lamborghini TG6,2019,3,89023,Previously stored at three luxury car garages and spent time at a specialist workshop before arriving at the dealership,1 Year 2 Months,Diesel,High,91000
+

@@ -1,6 +1,1 @@
-# AI Usage Declaration
-Alex Gleasure 
-## Stage 1
-
-State either that no AI was used, or record any use permitted by the lecturer.
-AI was used to generate some of the long sample descriptions for PreviousGarageHistory on record.txt, not all only a few of them just for PreviousGarageHistory on record.txt I wrote the record feilds for all the other entrys myself. 
+I used AI to help me set up a daily backup with cron. It suggested the command and explained how to add it to my crontab using Nano and terminal and already is a built in feature. I checked that the schedule was saved with crontab -l and that the cron service was running with service cron status.
